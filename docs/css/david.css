@@ -1,0 +1,12 @@
+ul.navbar-nav li a {
+  color: white;
+
+}
+ul.navbar-nav li {
+  text-align: right;
+  padding-right: 55px;
+}
+#sideNav .navbar-brand {
+  display: block;
+  margin-top: 60px;
+}
